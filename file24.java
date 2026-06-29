@@ -5,7 +5,7 @@ public class file24 {
         String str2 = " helo guys ";
         System.out.println(str.length());
         System.out.println(str.charAt(5));
-        System.out.println(str.substring(3,8));
+        System.out.println(str.substring(0,1));
         System.out.println(str.equals(str2));
         System.out.println(str.contains("hello"));
         System.out.println(str.indexOf("guys"));
